@@ -1,5 +1,5 @@
-# Semanic Eliomar
-▪Semanic Eliomar, é uma nova versão da plataforma de desiger Semanic UI
+# Eliomar UI
+▪Eliomar UI, é uma versão da plataforma de design Semanic UI
 # Categoria 
 ▪Design 
 # Tecnologia 
