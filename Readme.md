@@ -3,7 +3,6 @@
 # Categoria 
 ▪Design 
 # Tecnologia 
-▪HTML
 ▪Css
 ▪JavaScript 
 # Autoria 
